@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋
+I'm **Ehab**, a third-year computer science student who loves backend development
 
-<!--
-**EhabOkashahh/EhabOkashahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And I use projects as my main way to learn and sharpen my skills
 
-Here are some ideas to get you started:
+If I get an idea, I usually build it — even if it's small — just to explore the concept fully.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech & Tools I Use
+- C#, .NET, EF Core  
+- Windows Forms  
+- SQL Server  
+
+---
+
+## Goals
+- Become strong in backend architecture  
+- Build more real systems with clean, maintainable structure   
+
+---
+
+## Fun Facts
+- I enjoy organizing code even more than writing it  
+- I remake projects so often that “Clean Code” should pay me rent.
+- My brain loves debugging more than starting from scratch 😄  
+
+---
+
