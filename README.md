@@ -14,12 +14,6 @@ If I get an idea, I usually build it — even if it's small — just to explore 
 
 ---
 
-## Goals
-- Become strong in backend architecture  
-- Build more real systems with clean, maintainable structure   
-
----
-
 ## Fun Facts
 - I enjoy organizing code even more than writing it  
 - I remake projects so often that “Clean Code” should pay me rent.
