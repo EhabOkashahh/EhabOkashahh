@@ -7,9 +7,10 @@ I always try to write clean, organized code while exploring new backend technolo
 </p>
 
 <h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/ehab-okashah-63712436a" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ehab-okashah-63712436a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
