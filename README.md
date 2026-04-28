@@ -11,9 +11,6 @@ I always try to write clean, organized code while exploring new backend technolo
 <a href="https://www.linkedin.com/in/ehab-okashah-63712436a" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
 </a>
-<a href="https://discord.com/users/555004412087762945" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50" width="60" />
-</a>
 </p>
 
 <h3>Tech Stack:</h3>
