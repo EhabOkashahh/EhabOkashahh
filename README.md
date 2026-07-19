@@ -45,13 +45,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=EhabOkashahh&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/EhabOkashahh/EhabOkashahh/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true&color=3FB950&line=3FB950&point=1E6BE3&title_color=FFFFFF" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=EhabOkashahh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=20&order=3" height="400" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/EhabOkashahh/EhabOkashahh/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true&color=3FB950&line=3FB950&point=1E6BE3&title_color=FFFFFF" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
